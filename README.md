@@ -1,2 +1,8 @@
 # BatWinSetup
-Install windows using .bat files Warning! Run only on winPE
+# Warning! Run only on EFI!
+# How start
+You need to get all files (except Readme.md) to virtual disk
+(Who using this at Host machine???????)
+Now in WinPE run cmd at Shift + f10 keys and go to %disk letter%\setup.bat
+# Why it created?
+BatWinSetup is faster , than default Windows Setup and it easy to edit!
