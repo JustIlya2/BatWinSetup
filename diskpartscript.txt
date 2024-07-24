@@ -1,0 +1,9 @@
+sel dis 0
+clean
+conv gpt
+cre par efi size=512
+format fs=fat32 quick
+ass letter W
+cre par prim
+format fs=ntfs quick
+ass letter C
